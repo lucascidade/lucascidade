@@ -18,4 +18,4 @@
   <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 <br>
-Sou programador em constante desenvolvimento em busca de criar uma carreira sólida no mundo da tecnologia para mudar vidas através da programção. <br>
+Sou programador em constante desenvolvimento em busca de criar uma carreira sólida no mundo da tecnologia para mudar vidas através da programação. <br>
